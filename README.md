@@ -53,11 +53,3 @@ A **Tkinter-based desktop application** that allows users to **convert text into
 | File Handling  | OS & Time       |
 
 ---
-
-## ▶️ Installation & Setup
-
-1. **Clone this repository**
-
-```bash
-git clone https://github.com/yourusername/text-to-speech-converter.git
-cd text-to-speech-converter
